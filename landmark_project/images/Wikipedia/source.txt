@@ -1,0 +1,13 @@
+These images are all from Wikipedia.
+
+1920px-Haleakala_Observatory_2017.jpg:
+    https://en.wikipedia.org/wiki/Haleakal%C4%81_National_Park#/media/File:Haleakala_Observatory_2017.jpg
+
+Cloudy_Sunset_at_Delicate_Arch_(8520706358).jpg:
+    https://en.wikipedia.org/wiki/Delicate_Arch#/media/File:Cloudy_Sunset_at_Delicate_Arch_(8520706358).jpg
+
+HangingMonasterySculptures.jpg:
+    https://en.wikipedia.org/wiki/Hanging_Temple#/media/File:HangingMonasterySculptures.jpg
+
+Ossolinek_(Ossolineo)_Wroclaw_dwarf_dressed_2016_P01.jpg:
+    https://en.wikipedia.org/wiki/Wroc%C5%82aw%27s_dwarfs#/media/File:Ossolinek_(Ossolineo)_Wroclaw_dwarf_dressed_2016_P01.jpg
